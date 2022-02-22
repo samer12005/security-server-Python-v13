@@ -133,4 +133,4 @@ async def uptime(ctx):
     await ctx.send(embed=embed)
 
 
-client.run("YOUR BOT TOKEN HERE")
+client.run("OTQwMjI3NzMwOTI5MjM4MDU3.YgEVTw.6dqJCyegNrUHLJgG3Yu4iAQXXaA")
